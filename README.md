@@ -1,2 +1,1 @@
-# usi_2017
-Notebooks and source data for USI2017
+This repository houses the coding notebooks and source data for the Urban Science Intensive Project as part of NYU CUSP. The project estimated life expectancy trends with a linear regression model and grouped states by obesity prevalence and life expectancy trends with k-means clustering.
